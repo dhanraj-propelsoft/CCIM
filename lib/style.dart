@@ -19,5 +19,6 @@ Color buttonColor = Color(0xffc24f42);
 //button gradient colors
 Color buttongradient1 = Color(0xffb45fed);
 Color buttongradient2 = Color(0xff1f0133);
+Color buttongradient3 = Color(0xff1f0133);
 //Image
 // Image splashscreen = Image.asset('assets/splash screen/v.png');
